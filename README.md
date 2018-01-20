@@ -1,2 +1,3 @@
-# U-FUCK
-its for thrill and trill
+print "Fucking bitch"
+
+end
